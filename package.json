@@ -1,0 +1,12 @@
+{
+  "name": "root",
+  "version": "1.0.0",
+  "description": "ESLint configuration for Parklane",
+  "main": "index.js",
+  "author": "Devinda Senanayaka",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.19.0"
+  },
+  "packageManager": "yarn@3.2.1"
+}
